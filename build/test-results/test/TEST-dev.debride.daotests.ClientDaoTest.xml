@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.debride.daotests.ClientDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-24T15:59:50" hostname="DESKTOP-FC18Q6R" time="3.921">
+  <properties/>
+  <testcase name="create_client()" classname="dev.debride.daotests.ClientDaoTest" time="0.756"/>
+  <testcase name="get_client_by_id()" classname="dev.debride.daotests.ClientDaoTest" time="0.896"/>
+  <testcase name="get_clients()" classname="dev.debride.daotests.ClientDaoTest" time="0.465"/>
+  <testcase name="update_client()" classname="dev.debride.daotests.ClientDaoTest" time="1.336"/>
+  <testcase name="delete_client_by_id()" classname="dev.debride.daotests.ClientDaoTest" time="0.466"/>
+  <system-out><![CDATA[
+Client{clientId=31, Name='John Smith'}
+31
+
+
+Client{clientId=31, Name='John Smith'}
+Client{clientId=31, Name='John Smith'}
+
+[Client{clientId=27, Name='AD'}, Client{clientId=29, Name='Dragon Lady'}, Client{clientId=17, Name='Sansa Stark'}, Client{clientId=21, Name='AD'}, Client{clientId=23, Name='AD'}, Client{clientId=31, Name='John Smith'}, Client{clientId=26, Name='Worm'}, Client{clientId=18, Name='Dwarf Man'}, Client{clientId=19, Name='wall guy'}, Client{clientId=16, Name='Jon Snow'}, Client{clientId=15, Name='Wurm'}, Client{clientId=22, Name='AD'}, Client{clientId=30, Name='AD'}]
+
+
+
+Client{clientId=31, Name='Dragon Lady'}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

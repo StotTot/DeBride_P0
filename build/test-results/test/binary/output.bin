@@ -1,0 +1,14 @@
+
+(Client{clientId=31, Name='John Smith'}
+31
+
+
+(Client{clientId=31, Name='John Smith'}
+(Client{clientId=31, Name='John Smith'}
+
+Ó[Client{clientId=27, Name='AD'}, Client{clientId=29, Name='Dragon Lady'}, Client{clientId=17, Name='Sansa Stark'}, Client{clientId=21, Name='AD'}, Client{clientId=23, Name='AD'}, Client{clientId=31, Name='John Smith'}, Client{clientId=26, Name='Worm'}, Client{clientId=18, Name='Dwarf Man'}, Client{clientId=19, Name='wall guy'}, Client{clientId=16, Name='Jon Snow'}, Client{clientId=15, Name='Wurm'}, Client{clientId=22, Name='AD'}, Client{clientId=30, Name='AD'}]
+
+
+
+)Client{clientId=31, Name='Dragon Lady'}
+

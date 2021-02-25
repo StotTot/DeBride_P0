@@ -1,0 +1,10 @@
+dev/debride/utiltests/ConnectionTest.java
+ dev.debride.utiltests.ConnectionTest
+dev/debride/daotests/ClientDaoTest.java
+ dev.debride.daotests.ClientDaoTest
+dev/debride/servicetests/AccountServiceTests.java
+ dev.debride.servicetests.AccountServiceTests
+dev/debride/daotests/AccountDaoTest.java
+ dev.debride.daotests.AccountDaoTest
+dev/debride/servicetests/ClientServiceTests.java
+ dev.debride.servicetests.ClientServiceTests
